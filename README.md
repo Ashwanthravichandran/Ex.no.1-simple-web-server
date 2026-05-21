@@ -161,3 +161,6 @@ spring.application.name=simple-web-server
 
 ![hello.png](hello.png)
 
+### Result:
+
+The Spring Boot application was successfully developed and executed.
